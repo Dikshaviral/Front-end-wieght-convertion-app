@@ -1,0 +1,33 @@
+body{
+    margin-top: 10vh;
+    background-color: rgb(43, 45, 66)
+}
+h1{
+
+    color: rgb(237, 242, 244);
+    margin-bottom: 3vh;
+}
+span
+{
+    color: rgb(217, 4, 41)
+}
+input
+{
+    margin-bottom: 5vh;
+}
+.card
+{
+    padding: 15px;
+}
+#gout
+{
+    background-color: rgb(141, 153, 174);
+}
+#kgout
+{
+    background-color: rgb(239, 35, 60);
+}
+#oxout
+{
+    background-color: rgb(211, 248, 226);
+}
